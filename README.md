@@ -61,14 +61,19 @@ Add slicers for coffee type, roast type, size, and loyalty card status.
 Ensure all charts are connected to the slicers for interactivity.
 ## Key Findings
 •	**Sales by Coffee Type:** Visual representation of total sales for each coffee type, identifying the most popular types.
+
 •	**Top 5 Customers:** Analysis of the top 5 customers by sales, providing insights into high-value customers.
+
 •	**Sales by Country:** Geographical distribution of sales, highlighting key markets.
+
 •	**Total Sales Over Time:** Trends in total sales over time, with the ability to filter by roast type, size, and loyalty card status.
 ## Conclusion
 The Coffee Sales Dashboard provides a comprehensive analysis of sales data, offering valuable insights into customer behaviour and sales performance. This project reveals key insights for optimizing your coffee shop's operations.By leveraging these findings, you can enhance customer experiences, and boost overall sales efficiency for a thriving coffee shop venture. The interactive features of the dashboard, including slicers, enhance the ability to explore the data and derive meaningful conclusions.
 ## Recommended Analysis
 •	Expand the analysis to include additional metrics such as average order value and repeat purchase rate.
+
 •	Incorporate more advanced visualization techniques to further enhance the dashboard.
+
 •	Explore predictive analytics to forecast future sales trends.
 ## Reflection
 This project provided practical experience in data cleaning, preparation, and analysis using Excel. The creation of an interactive dashboard improved the ability to communicate insights effectively and demonstrated the power of Excel as a tool for data analysis and visualization.
