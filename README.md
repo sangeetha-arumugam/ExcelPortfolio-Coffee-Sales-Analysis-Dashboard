@@ -18,9 +18,9 @@ The objective is to analyze the data through various pivot tables and charts, cu
 ## Data & Resource Used
 **Dataset**
 
-1. [Kaggle]{https://www.kaggle.com/datasets?fileType=csv}
+[Kaggle]{https://www.kaggle.com/datasets?fileType=csv}
    
-2. The dataset can be found on [Mo Chen]{https://www.youtube.com/@mo-chen} YouTube Channel. I am grateful for his guidance on this project.
+The dataset can be found on [Mo Chen]{https://www.youtube.com/@mo-chen} YouTube Channel. I am grateful for his guidance on this project.
 
 **Tool** 
 
