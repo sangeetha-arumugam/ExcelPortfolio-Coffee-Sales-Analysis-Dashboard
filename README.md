@@ -58,7 +58,8 @@ Add slicers for coffee type, roast type, size, and loyalty card status.
 
 Ensure all charts are connected to the slicers for interactivity.
 
-!/assets/images/CS Dashboard.png
+![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/CS%20Dashboard.png)
+
 ## Key Findings
 •	**Sales by Coffee Type:** Visual representation of total sales for each coffee type, identifying the most popular types.
 
