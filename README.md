@@ -1,4 +1,4 @@
-# ExcelPortfolio-Coffee-Sales-Analysis-Dashboard
+# Coffee-Sales-Analysis-Dashboard
 
 ![Alternative Text](assets/images/Coffee Dashboard Theme1.png)
 
