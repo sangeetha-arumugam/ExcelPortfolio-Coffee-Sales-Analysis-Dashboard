@@ -1,6 +1,6 @@
 # ExcelPortfolio-Coffee-Sales-Analysis-Dashboard
 
-![Alternative Text](assets/images/Coffee Dashboard Theme1.png)
+![Alternative Text](Coffee Dashboard Theme1.png)
 
 ## Introduction
 The purpose of this project is to enhance the coffee shop's analytical capabilities by offering insights into customer behavior and sales patterns. It involves cleaning and preparing a coffee sales dataset along with customer and product data to create a comprehensive order table using Excel formulas. 
