@@ -23,9 +23,9 @@ The objective is to analyze the data through various pivot tables and charts, cu
 
 **Dataset**
 
-[Kaggle](https://www.kaggle.com/datasets?fileType=csv)
+Option 1: [Kaggle](https://www.kaggle.com/datasets?fileType=csv)
 
-And, also the dataset can be found on [Mo Chen](https://www.youtube.com/@mo-chen) YouTube Channel. I am grateful for his guidance on this project.
+Option 2: And, also the dataset can be found on [Mo Chen](https://www.youtube.com/@mo-chen) YouTube Channel. I am grateful for his guidance on this project.
 
 **Tool** 
 
