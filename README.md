@@ -19,6 +19,7 @@ The objective is to analyze the data through various pivot tables and charts, cu
     
 6. Create an Interactive dashboard
 ## Data & Resource Used
+
 **Dataset**
 
 [Kaggle](https://www.kaggle.com/datasets?fileType=csv)
@@ -37,13 +38,13 @@ Ensure all columns are correctly formatted and that there are no missing values.
 ### 2. Create the Order Table
 Combine data from the product and customer datasets using VLOOKUP, INDEX, and IF formulas.
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Excel%20Formulas.png)
+![Alternative Text](assets/images/Excel Formulas.png)
 
 Ensure the order table includes columns for customer name, email, country, coffee type, roast type, size, unit price, sales, coffee type name, roast type name, and loyalty card status.
 ### 3. Order Table Creation Using Formulas
 VLOOKUP, INDEX, and IF Statements
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Orders%20Table.png)
+![Alternative Text](assets/images/Orders Table.png)
 
 For Formula Refer: Formula Sheet in Dataset
 ## Data Analysis and Visualization
@@ -51,25 +52,25 @@ By Creating Pivot Table along with suitable charts we can identify trends in the
 
 1. Sales by Coffee Type
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Sales%20by%20CoffeeType.png)
+![Alternative Text](assets/images/Sales by CoffeeType.png)
    
 2. Top 5 Customers
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Top%205%20Customers.png)
+![Alternative Text](assets/images/Top 5 Customers.png)
  
 3. Sales by Country
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Sales%20by%20Country.png)
+![Alternative Text](assets/images/Sales by Country.png)
  
 4. Total Sales Over Time
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Total%20Sales%20Over%20Time.png)
+![Alternative Text](assets/images/Total Sales Over Time.png)
 
 ## Design Interactive Dashboard 
 ### 1.	Create a New Worksheet for the Dashboard:
 Insert all the created charts into the new worksheet.
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Coffee%20Dashboard%20Theme1.png)
+![Alternative Text](assets/images/Coffee Dashboard Theme2.png)
 
 Arrange the charts in a logical and visually appealing layout.
 ### 2.	Add Slicers:
@@ -77,9 +78,7 @@ Add slicers for coffee type, roast type, size, and loyalty card status.
 
 Ensure all charts are connected to the slicers for interactivity.
 
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Coffee%20Dashboard%20Theme2.png)
-
-![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Coffee%20Dashboard%20Theme3.png)
+![Alternative Text](assets/images/Coffee Dashboard Theme3.png)
 
 ## Key Findings
 •	**Sales by Coffee Type:** Visual representation of total sales for each coffee type, identifying the most popular types.
