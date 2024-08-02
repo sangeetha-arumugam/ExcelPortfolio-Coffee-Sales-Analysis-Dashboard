@@ -47,7 +47,7 @@ By Creating Pivot Table along with suitable charts we can identify trends in the
 
 1. Sales by Coffee Type
 
-
+![](https://github.com/sangeetha-arumugam/ExcelPortfolio-Coffee-Sales-Analysis-Dashboard/blob/main/assets/images/Sales%20by%20CoffeeType.png)
    
 2. Top 5 Customers
 
