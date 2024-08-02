@@ -17,9 +17,10 @@ The objective is to analyze the data through various pivot tables and charts, cu
 6. Create an Interactive dashboard
 ## Data & Resource Used
 **Dataset**
-[Kaggle]{https://www.kaggle.com/datasets?fileType=csv}
 
-The dataset can be found on [Mo Chen]{https://www.youtube.com/@mo-chen} YouTube Channel. I am grateful for his guidance on this project.
+[Kaggle](https://www.kaggle.com/datasets?fileType=csv)
+
+The dataset can be found on [Mo Chen](https://www.youtube.com/@mo-chen) YouTube Channel. I am grateful for his guidance on this project.
 **Tool** 
 
 Microsoft Excel
