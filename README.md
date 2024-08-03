@@ -52,19 +52,19 @@ For Formula Refer: Formula Sheet in Dataset
 ## Data Analysis and Visualization
 By Creating Pivot Table along with suitable charts we can identify trends in the dataset focusing on relationship between sales and other factors such as date, customers, country.
 
-1. Sales by Coffee Type
+A. Sales by Coffee Type
 
 ![Alternative Text](assets/images/Sales by CoffeeType.png)
    
-2. Top 5 Customers
+B. Top 5 Customers
 
 ![Alternative Text](assets/images/Top 5 Customers.png)
  
-3. Sales by Country
+C. Sales by Country
 
 ![Alternative Text](assets/images/Sales by Country.png)
  
-4. Total Sales Over Time
+D. Total Sales Over Time
 
 ![Alternative Text](assets/images/Total Sales Over Time.png)
 
